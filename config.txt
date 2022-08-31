@@ -1,0 +1,36 @@
+{
+"app_id": "wx8e81087bf35fe34a",
+"app_secret": "f81eb8e78c6936750848dcf0d21edbe9",
+
+"template_id": "pq-NS29OyDqsaruC84spP-317wiXhBSv0WWqQq9n_t4",
+"user_id": ["oyOof5h_k0dIYoqhWb7m7b0Ca2wA"],
+#"user_id": ["oyOof5lGogkv8Gb5RKDPFfSU64MM" , "oyOof5pe_I6DIYajzrR_YoX3rcNQ"],
+
+"C_ShengFen": "北京",
+"C_ChengShi": "北京",
+"S_XingZuo": "处女座",
+
+"S_Love": "2019-12-15",
+"birthday1": "1993-06-17",
+
+
+"C_String01": "今天要开心",
+"C_String02": "吃饱喝足",
+"C_String03": "平安",
+
+
+# 天气预报
+"API_TQYB":"4b53063a612648b00f78d617b91c2daf",
+# 星座运势
+"API_XZYS":"4b53063a612648b00f78d617b91c2daf",
+
+# 早安心语
+"API_ZAXY":"4b53063a612648b00f78d617b91c2daf",
+# 晚安心语
+"API_WAXY":"4b53063a612648b00f78d617b91c2daf",
+
+# 舔狗日记
+"API_TGRJ":"4b53063a612648b00f78d617b91c2daf",
+# 土味情话
+"API_TWQH":"4b53063a612648b00f78d617b91c2daf"
+}
